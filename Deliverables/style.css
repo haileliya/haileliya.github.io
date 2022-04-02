@@ -1,0 +1,10 @@
+body {
+
+    color: #e2e6eb;
+  }
+  
+  img.resize {
+    max-width:50%;
+    max-height:50%;
+  }
+  
